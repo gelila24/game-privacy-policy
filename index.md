@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Colour Dash**  
-Last updated: 2025-01-01
+Last updated: 2025-12-28
 
 ## Information We Collect
 When you create an account to use the leaderboard feature, we collect:
@@ -29,4 +29,4 @@ You may request deletion of your account and data by contacting:
 gelilagames@gmail.com
 
 ## Contact
-gelilagames@gmail.com
+📧 gelilagames@gmail.com
