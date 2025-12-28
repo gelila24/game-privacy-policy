@@ -1,1 +1,0 @@
-# game-privacy-policy
