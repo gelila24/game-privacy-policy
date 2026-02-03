@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**Colour Dash**  
-Last updated: 2025-12-28
+**Colour Dash**
+Last updated: 2026-02-02
 
 ## Information We Collect
 When you create an account to use the leaderboard feature, we collect:
@@ -21,7 +21,7 @@ We do not sell or share user data with third parties.
 ## Data Security
 All data is encrypted in transit and stored securely using Firebase services.
 
-## Children’s Information
+## Children's Information
 This game is suitable for all ages but is not specifically designed for children under 13.
 
 ## User Rights
@@ -30,3 +30,7 @@ gelilagames@gmail.com
 
 ## Contact
 📧 gelilagames@gmail.com
+''';
+
+/// Contact email for privacy and data requests.
+const String privacyContactEmail = 'gelilagames@gmail.com';
