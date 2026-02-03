@@ -31,5 +31,3 @@ gelilagames@gmail.com
 ## Contact
 📧 gelilagames@gmail.com
 
-Contact email for privacy and data requests.
-const String privacyContactEmail = 'gelilagames@gmail.com';
